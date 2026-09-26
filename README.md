@@ -44,3 +44,11 @@ Universal-Video-Downloader/
     ├── __init__.py            # Package Marker
     ├── downloader.py          # Core yt-dlp backend & progress logic
     └── gui.py                 # CustomTkinter User Interface
+
+---
+
+## 💡Author
+
+**Dhananjay Bilade**
+
+If you found this project useful, feel free to star the repository.
