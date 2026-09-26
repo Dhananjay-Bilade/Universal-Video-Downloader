@@ -18,7 +18,7 @@ A modern, fast, and user-friendly desktop application built with Python to downl
 - **⚡ Real-Time Progress Tracking:** Monitor exact download percentage, real-time speed (MB/s), and estimated time remaining (ETA).
 - **🚫 Cancel Anytime:** Stop active downloads instantly with the integrated emergency cancel button.
 - **📁 Folder Chooser:** Select any directory on your computer to save your downloaded files.
-- **📦 No Installation Required:** Pre-packaged executable (`.exe`) with bundled FFmpeg binaries — runs standalone on Windows PCs!
+
 
 ---
 
@@ -30,7 +30,6 @@ A modern, fast, and user-friendly desktop application built with Python to downl
 | **CustomTkinter** | Modern UI framework for Desktop Application |
 | **yt-dlp** | Core media extraction & scraper engine |
 | **FFmpeg** | High-Definition video and audio stream merging |
-| **PyInstaller** | Executable (`.exe`) bundling |
 
 ---
 
